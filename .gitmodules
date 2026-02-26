@@ -1,0 +1,4 @@
+[submodule "3rd/doc"]
+	path = 3rd/doc
+	url = git@github.com:hanjingo/doc.git
+	branch = master
